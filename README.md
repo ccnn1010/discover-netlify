@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [https://focused-euler-46ac08.netlify.app]()
+* Link to the website deployed on Netlify : [https://focused-euler-46ac08.netlify.app/]()
